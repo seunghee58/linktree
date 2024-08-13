@@ -19,6 +19,7 @@
 4. 다른 링크트리들을 참고해서 footer를 넣어주었다! <br> </h6>
 
 ## ✨ 완성본
+링크 : https://seunghee58.github.io/linktree/
 
 ![링크트리](https://github.com/user-attachments/assets/2817df8f-2712-4f26-b203-bd706ef9f2e3)
 
